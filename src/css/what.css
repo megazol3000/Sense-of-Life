@@ -12,6 +12,7 @@
     overflow: hidden;
     cursor: pointer;
     outline: none;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 .what_answer__text {
     max-height: auto;
