@@ -203,6 +203,8 @@
 
 @media(max-width: 440px) {
     .hero{padding-bottom: 200px;}
+    .map {padding-top: 60px;}
+    .contacts-telephone_item {flex-direction: column;}
 }
 @media(max-width: 370px) {
     .hero{padding-bottom: 160px;}
