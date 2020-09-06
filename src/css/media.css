@@ -205,6 +205,7 @@
     .hero{padding-bottom: 200px;}
     .map {padding-top: 60px;}
     .contacts-telephone_item {flex-direction: column;}
+    .map-wrapper {height: 300px !important;}
 }
 @media(max-width: 370px) {
     .hero{padding-bottom: 160px;}
